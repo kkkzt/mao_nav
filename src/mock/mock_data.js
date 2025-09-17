@@ -479,9 +479,14 @@ export const mockData = {
           "icon": "/sitelogo/www.feishu.cn.ico"
         }
       ]
+    },
+    {
+      "id": "category-1758069658329",
+      "icon": "📁",
+      "name": "Nas相关",
+      "order": 16,
+      "sites": []
     }
   ],
-  "title": "猫猫导航",
-  "search": "bing",
-  "_fileSha": "cf9e9f1ad8644add6c0918786cae6707de255aaf"
+  "title": "猫猫导航"
 }
