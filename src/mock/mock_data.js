@@ -485,10 +485,16 @@ export const mockData = {
       "icon": "📁",
       "name": "Nas相关",
       "order": 16,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1758086802340",
+          "name": "我不是矿神",
+          "url": "https://imnks.com/",
+          "description": "",
+          "icon": ""
+        }
+      ]
     }
   ],
-  "title": "涛声依旧",
-  "_fileSha": "9befcdc0ed55ca1d3036d9fe8a61e9277e4259c7",
-  "search": "baidu"
+  "title": "涛声依旧"
 }
